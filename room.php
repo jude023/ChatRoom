@@ -523,14 +523,14 @@ if (!$isMember) {
         .reaction-picker {
             position: absolute;
             bottom: 100%;
-            left: 0;
+            right: 10px; /* Removes the left property */
             background-color: white;
             border: 1px solid #ddd;
             border-radius: 20px;
             padding: 5px 10px;
             display: none;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            Y-index: 100;
+            Z-index: 100;
         }
 
         .reaction-emoji {
@@ -562,7 +562,7 @@ if (!$isMember) {
 
         .reaction-emoji-small {
             font-size: 14px;
-            margin-right: 210px;
+            /* margin-right: 210px; */
             cursor: pointer;
         }
 
@@ -1790,9 +1790,9 @@ let isUserInteracting = false; // Flag to track user interaction
                                     for (const [emoji, users] of Object.entries(message.reactions)) {
                                         const count = users.length;
                                         const hasReacted = users.includes('<?php echo $userId; ?>');
-                                        const badgeClass = hasReacted ? 'reaction-badge reacted' : 'reaction-badge';
+                                        // const badgeClass = hasReacted ? 'reaction-badge reacted' : 'reaction-badge'; class="${badgeClass}"
                                         reactionsHTML += `
-                                            <div class="${badgeClass}" onclick="reactToMessage('${message.id}', '${emoji}')">
+                                            <div  onclick="reactToMessage('${message.id}', '${emoji}')">
                                                 <span class="reaction-emoji-small">${emoji}</span>
                                                 
                                             </div>
@@ -1812,9 +1812,7 @@ let isUserInteracting = false; // Flag to track user interaction
                                         <div class="message-info">${message.username} - ${message.time}</div>
                                         <div class="message-bubble">
                                         ${(containsOnlyEmojis(message.text)) ?  emojisHTML : message.text}
-                                            
                                             ${fileHTML}
-                                            ${readReceiptHTML}
                                             ${reactionPickerHTML}
                                             ${reactionsHTML}
                                             ${canDelete ? 
@@ -1823,8 +1821,7 @@ let isUserInteracting = false; // Flag to track user interaction
                                                 </div>` : ''
                                             }
                                         </div>
-                                        
-                                        
+                                            ${readReceiptHTML}
                                             <button class="reaction-btn" onclick="toggleReactionPicker('${message.id}')">😊</button>
                                     </div>
                                 `;

@@ -1,0 +1,107 @@
+{
+    "rooms": [
+        {
+            "id": "room_681161bedeec6",
+            "name": "ChisMakisRoom",
+            "description": "Pasok mga SUKI",
+            "has_password": false,
+            "password": "kamakurabakufu",
+            "creator_id": "681161a0ca8e2",
+            "creator_name": "Crisostomo_Ibarra",
+            "created_at": "2025-04-29 23:33:18",
+            "members": [
+                {
+                    "id": "681161a0ca8e2",
+                    "username": "Crisostomo_Ibarra",
+                    "role": "admin"
+                },
+                {
+                    "id": "6811820210296",
+                    "username": "jane",
+                    "role": "member"
+                },
+                {
+                    "id": "68118350041e8",
+                    "username": "sarah",
+                    "role": "member"
+                },
+                {
+                    "id": "681184d78976d",
+                    "username": "Ea_Ron",
+                    "role": "member"
+                },
+                {
+                    "id": "68154b8c68e3a",
+                    "username": "marknimes",
+                    "role": "member"
+                },
+                {
+                    "id": "686cc592b8434",
+                    "username": "testing101",
+                    "role": "member"
+                }
+            ]
+        },
+        {
+            "id": "room_6811766dd8b14",
+            "name": "Shits Pasok",
+            "description": "PASOK MGA SHT",
+            "has_password": false,
+            "password": "",
+            "creator_id": "6811764a78abd",
+            "creator_name": "Shitnes",
+            "created_at": "2025-04-30 01:01:33",
+            "members": [
+                {
+                    "id": "6811764a78abd",
+                    "username": "Shitnes",
+                    "role": "admin"
+                }
+            ]
+        },
+        {
+            "id": "room_68b23758ae2bb",
+            "name": "Chasmakis",
+            "description": "LALALAL",
+            "has_password": true,
+            "password": "$2y$10$wbJatvQkwzLJGFaOfWZoE.mU9MVls1GmJF6tfkdKXFPj3qVpC5CJ.",
+            "creator_id": "681161a0ca8e2",
+            "creator_name": "JUDE",
+            "created_at": "2025-08-29 23:27:20",
+            "members": [
+                {
+                    "id": "681161a0ca8e2",
+                    "username": "JUDE",
+                    "role": "admin"
+                },
+                {
+                    "id": "68118350041e8",
+                    "username": "sarah",
+                    "role": "member"
+                },
+                {
+                    "id": "68b8ff4cbe527",
+                    "username": "Sarah",
+                    "role": "member"
+                }
+            ]
+        },
+        {
+            "id": "room_68b8ff91d1b47",
+            "name": "HeyJude",
+            "description": "Judeness",
+            "has_password": true,
+            "password": "$2y$10$pXiZkAe2AvR6HaYkS10tN.tC9OfFfkE8VV\/ih12mG2JYE07MJvHWe",
+            "creator_id": "68b8ff742254e",
+            "creator_name": "HeyJude",
+            "created_at": "2025-09-04 02:55:13",
+            "members": [
+                {
+                    "id": "68b8ff742254e",
+                    "username": "HeyJude",
+                    "role": "admin"
+                }
+            ]
+        }
+    ]
+}

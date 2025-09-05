@@ -1,0 +1,102 @@
+{
+    "users": [
+        {
+            "id": "681161a0ca8e2",
+            "username": "JUDE",
+            "email": "hrd.sdm_jude@teams.hrd-s.com",
+            "password": "$2y$10$laJ0ulawcNXoZtGz6L7jhe1zjQFTgNBXuZPU2pAZqtOWzriomnFS.",
+            "ip_address": "10.169.141.18",
+            "created_at": "2025-04-29 23:32:48",
+            "rooms": [
+                "room_681161bedeec6",
+                "room_68b23758ae2bb"
+            ]
+        },
+        {
+            "id": "681161f025671",
+            "username": "Heroine",
+            "email": "retrial-vice-rocky@duck.com",
+            "password": "$2y$10$gm3C86cF6.6a42TsUo5jheu4xWlzw7GGQBxXABB7yvD3aiO93JWe2",
+            "ip_address": "10.169.141.18",
+            "created_at": "2025-04-29 23:34:08",
+            "rooms": []
+        },
+        {
+            "id": "6811764a78abd",
+            "username": "STO.NICO",
+            "email": "gloriousl876@gmail.com",
+            "password": "$2y$10$YacVhDdwv0UYTm8ySNBlr.I8Lj1gDiwmzEOpsi1DRN70EJH0OlvoO",
+            "ip_address": "10.169.130.172",
+            "created_at": "2025-04-30 01:00:58",
+            "rooms": [
+                "room_6811766dd8b14"
+            ]
+        },
+        {
+            "id": "6811820210296",
+            "username": "jane",
+            "email": "jane@gmail.com",
+            "password": "$2y$10$79fVlz.HgP9hPUzDTAVqHe2RX6.KyYX0\/KAMdMAjw1pKHND1SeYa2",
+            "ip_address": "10.169.140.153",
+            "created_at": "2025-04-30 01:50:58",
+            "rooms": [
+                "room_681161bedeec6"
+            ]
+        },
+        {
+            "id": "681184d78976d",
+            "username": "Ea_Ron",
+            "email": "aeron@gmail.com",
+            "password": "$2y$10$GYcg1KkOXudzwsNYLrZXLOHk81XN1tJ2J2jMZJo6XGIM8sz3IwAx.",
+            "ip_address": "10.169.142.21",
+            "created_at": "2025-04-30 02:03:03",
+            "rooms": [
+                "room_681161bedeec6"
+            ]
+        },
+        {
+            "id": "68154b8c68e3a",
+            "username": "marknimes",
+            "email": "marknimes@gmail.com",
+            "password": "$2y$10$90CCLJjWycaCy3K6EBpbA.9LRxyUJGeLI.9Vjp\/sYmFKBRJWmW3.K",
+            "ip_address": "10.169.142.118",
+            "created_at": "2025-05-02 22:47:40",
+            "rooms": [
+                "room_681161bedeec6"
+            ]
+        },
+        {
+            "id": "686cc592b8434",
+            "username": "testing101",
+            "email": "hrd.sdm_jude2@teams.hrd-s.com",
+            "password": "$2y$10$8WRC0mPb9B9qj6cal3FXJu5sop2zmBWCp9o.81pC2h\/7nXSu8OqcS",
+            "ip_address": "::1",
+            "created_at": "2025-07-08 07:15:30",
+            "rooms": [
+                "room_681161bedeec6"
+            ]
+        },
+        {
+            "id": "68b8ff4cbe527",
+            "username": "Sarah",
+            "email": "sarahbrosoto18@gmail.com",
+            "password": "$2y$10$VKd2.fSmF0jesTrHXBrvU.DqNbtBjgXl1.DufzxqfFglCMV6GU.ma",
+            "ip_address": "10.169.141.211",
+            "created_at": "2025-09-04 02:54:04",
+            "rooms": [
+                "room_68b23758ae2bb"
+            ]
+        },
+        {
+            "id": "68b8ff742254e",
+            "username": "HeyJude",
+            "email": "HeyJude123@gmail.com",
+            "password": "$2y$10$glTjq4YzccMZWJL0E75jvez1Nulhw0iXZpl.PhcTZvMcB5hDEqySW",
+            "ip_address": "10.169.130.172",
+            "created_at": "2025-09-04 02:54:44",
+            "rooms": [
+                "room_68b8ff91d1b47"
+            ]
+        }
+    ]
+}

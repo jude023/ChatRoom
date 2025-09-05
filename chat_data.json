@@ -1,0 +1,3655 @@
+{
+    "messages": [
+        {
+            "id": "msg_6811767516840",
+            "room_id": "room_6811766dd8b14",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "Hello",
+            "time": "2025-04-30 01:01:41"
+        },
+        {
+            "id": "msg_68117b2dbc68b",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "Oyy",
+            "time": "2025-04-30 01:21:49",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68117b389faa1",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "\ud83d\ude1d",
+            "time": "2025-04-30 01:22:00",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68117b4205f21",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "pwede ba ako mag print ?",
+            "time": "2025-04-30 01:22:10",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68117b49cf5f9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "nakakapag send ba ng picture dito",
+            "time": "2025-04-30 01:22:17",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681181dd74e8f",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "inaayos ko ung uploading ng pictures",
+            "time": "2025-04-30 01:50:21",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118218e7e26",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "lahat nalang ng glaw",
+            "time": "2025-04-30 01:51:20",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811821bbf4cb",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "nakikita nyan",
+            "time": "2025-04-30 01:51:23",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182206c677",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "oo nga eh",
+            "time": "2025-04-30 01:51:28",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182284482a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "sarap keltusan",
+            "time": "2025-04-30 01:51:36",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811822c72c4f",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "sali nyo dto sila win",
+            "time": "2025-04-30 01:51:40",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811822f361e8",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "umpisahan nyo na gamitin ung whereabout",
+            "time": "2025-04-30 01:51:43",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182347a386",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "mahirap na sa ms teeams",
+            "time": "2025-04-30 01:51:48",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182358e7db",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "naka exe yon diba?",
+            "time": "2025-04-30 01:51:49",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182437d606",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHAHA nagamit naman ako d ko lang cliniclick hahaha",
+            "time": "2025-04-30 01:52:03",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118243d311e",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "sino meron non penge",
+            "time": "2025-04-30 01:52:03",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118250b53b1",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHAHA yack wla",
+            "time": "2025-04-30 01:52:16",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811825304b41",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "inalis ko kase ung akin",
+            "time": "2025-04-30 01:52:19",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182664a530",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHAHAHAH",
+            "time": "2025-04-30 01:52:38",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118277060aa",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "wag na okie na pala",
+            "time": "2025-04-30 01:52:55",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118282d2bf1",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "\\\\10.169.140.1\\ASD Files\\Jude",
+            "time": "2025-04-30 01:53:06",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118287865ec",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHAH wlangya ka",
+            "time": "2025-04-30 01:53:11",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811829862ef7",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "mayang pm break mag where about us",
+            "time": "2025-04-30 01:53:28",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182a272cf7",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHAHA maliwanag ba",
+            "time": "2025-04-30 01:53:38",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182a5d62bb",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "d makak tulog ng ayos",
+            "time": "2025-04-30 01:53:41",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182a6ad081",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "wala ako non",
+            "time": "2025-04-30 01:53:42",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182aaaa888",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "pag sila d naman nag wwhere abouts",
+            "time": "2025-04-30 01:53:46",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182b241639",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "report mo nganiiii",
+            "time": "2025-04-30 01:53:54",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182b3526a8",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "kaya nga",
+            "time": "2025-04-30 01:53:55",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182b94edb5",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "paepal masyado",
+            "time": "2025-04-30 01:54:01",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182be0b144",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "ayaw pa umalis kung aalis",
+            "time": "2025-04-30 01:54:06",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182c4ab4ce",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "report si nick",
+            "time": "2025-04-30 01:54:12",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182c528284",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "sa pm break sa lunch naman pinapatay ko monitor eh",
+            "time": "2025-04-30 01:54:13",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182c899291",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "sya yang shitness",
+            "time": "2025-04-30 01:54:16",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182d7b5869",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "ayaw ng pinapatay gusto may nakikita",
+            "time": "2025-04-30 01:54:31",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182e3e8842",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "gusto manilip",
+            "time": "2025-04-30 01:54:43",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182e6bf6e3",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "potek anliwanag non",
+            "time": "2025-04-30 01:54:46",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182e7c8839",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "blur kasi",
+            "time": "2025-04-30 01:54:47",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681182fa33bca",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "kaya nga tpos bawal din dim",
+            "time": "2025-04-30 01:55:06",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118315146b6",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "oo wag nalang papahuli sa mga nagamit ng dim screen",
+            "time": "2025-04-30 01:55:33",
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118322e59f4",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "maglagay ka non bago patayin mo monitor mo",
+            "time": "2025-04-30 01:55:46",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183415d460",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "para tayong nag sshHAHAHAHA edi wla lang din ung dim kung papatayin",
+            "time": "2025-04-30 01:56:17",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811835bd08d1",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "my notif pala to kaso d lalabas sa pina pc mo sa browser lang pag nasa dashboard ka",
+            "time": "2025-04-30 01:56:43",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811836ce83c2",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "mag open ka ng whereabouts bago patayin mo monitor ang aking ibig sabihin hahhaa",
+            "time": "2025-04-30 01:57:00",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811837591d16",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "ayan na ung panget",
+            "time": "2025-04-30 01:57:09",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811837be4c2a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "nasaaan na",
+            "time": "2025-04-30 01:57:15",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118381469e4",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "Shit ba yan",
+            "time": "2025-04-30 01:57:21",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183913047d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "eh ganun nga ginagawa ko nganiiii baka nga sakin nakita nganiii d ginagamit hahahah",
+            "time": "2025-04-30 01:57:37",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811839fee1bf",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "maari nga",
+            "time": "2025-04-30 01:57:51",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183abdf49d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "deploy ko nga to mamaya hahahah",
+            "time": "2025-04-30 01:58:03",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183bf33542",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "walang pakyu sa emoji mo?",
+            "time": "2025-04-30 01:58:23",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183c27d7c5",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "ano ba yon kulang",
+            "time": "2025-04-30 01:58:26",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183caace89",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "wla ba ?",
+            "time": "2025-04-30 01:58:34",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183cc02ce9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHA",
+            "time": "2025-04-30 01:58:36",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183d4aad87",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "beh wala",
+            "time": "2025-04-30 01:58:44",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183f8b88a0",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "pa refresh",
+            "time": "2025-04-30 01:59:20",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681183fe540e5",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "\ud83d\udd95",
+            "time": "2025-04-30 01:59:26",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681184292297f",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "ayan na meron na",
+            "time": "2025-04-30 02:00:09",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811842b37485",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "fckyou hahaha",
+            "time": "2025-04-30 02:00:11",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811842ed455f",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "\ud83d\udd95 eto kamo siya",
+            "time": "2025-04-30 02:00:14",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811843f6674b",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "gawin ko lang ung uploading ng files ha tpos ung reply next",
+            "time": "2025-04-30 02:00:31",
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681184460c9e3",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "panget niya kabonding",
+            "time": "2025-04-30 02:00:38",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811846860849",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "behave lang ako dito",
+            "time": "2025-04-30 02:01:12",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118476b0efa",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "baka sooner or later nagchecheck na din ng drawer dito ha",
+            "time": "2025-04-30 02:01:26",
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118529887d4",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHA ano yan fse",
+            "time": "2025-04-30 02:04:25",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811852fd5133",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "umay na dto",
+            "time": "2025-04-30 02:04:31",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811853831a0c",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "\ud83e\udd2c",
+            "time": "2025-04-30 02:04:40",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811856d92a9f",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "possible siguro yon magkaroon na tayo ng 5s checking",
+            "time": "2025-04-30 02:05:33",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681185789b73d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "naghihigpit silang maigi eh",
+            "time": "2025-04-30 02:05:44",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681186c06754c",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "laki ng problema nila satin HAHAHAH hindi ba tayo pweding bumalik sa kabila",
+            "time": "2025-04-30 02:11:12",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681187c618c24",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "",
+            "time": "2025-04-30 02:15:34",
+            "has_file": true,
+            "file": {
+                "name": "2183-7648-6573-9153.pdf",
+                "path": "uploads\/file_681187c616ea5.pdf",
+                "size": 5460584,
+                "type": "application\/pdf"
+            },
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681187ca36749",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "HAHAHAHA meron na",
+            "time": "2025-04-30 02:15:38",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681187d203200",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "react naman ang next",
+            "time": "2025-04-30 02:15:46",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118864692bc",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "siya lang kamo nag hihigpit kakatropa niya kay aira at ej hahaha",
+            "time": "2025-04-30 02:18:12",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681188746fabb",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "kelan ba yan ipapadala sa japan",
+            "time": "2025-04-30 02:18:28",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118941828ef",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "pag pinadala na yan sa japan baka mas maghigpit tayo kse magiging under tayo ni sir murata",
+            "time": "2025-04-30 02:21:53",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118964828d9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "kaya naghihigpit si maam yuko kase daw magiging undertayo ni sir para daw ready na tayo mag alis nya",
+            "time": "2025-04-30 02:22:28",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118973ad63a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "lahat ng ginagawa sa kabila gagawin natin natin",
+            "time": "2025-04-30 02:22:43",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811898753a79",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "kaya sa mga susunod baka ung after lunch na meeting ipatupad nadin satin",
+            "time": "2025-04-30 02:23:03",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_6811899204f31",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "mga kelan mangyayari yon",
+            "time": "2025-04-30 02:23:14",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189a140a0d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "mga june or july pa",
+            "time": "2025-04-30 02:23:29",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189a71a8e2",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "counted as 2 years na yung 1 year and 7 months diba?",
+            "time": "2025-04-30 02:23:35",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189b0682e8",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "hindi",
+            "time": "2025-04-30 02:23:44",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189b7e577a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681184d78976d",
+            "username": "Ea_Ron",
+            "text": "wala pa ung kapalitan ni maam yuks??",
+            "time": "2025-04-30 02:23:51",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "6811764a78abd",
+                "68118350041e8",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189be3745d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "kailangan buong 2 years?",
+            "time": "2025-04-30 02:23:58",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189c036fad",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "2yrs talaga dapat pag naka contractand ka",
+            "time": "2025-04-30 02:24:00",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189d634fa6",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "ahh tiisin ko nalang yung ilang months",
+            "time": "2025-04-30 02:24:22",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189ded3047",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "oo hahaha",
+            "time": "2025-04-30 02:24:30",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189eb9dae0",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "pero pag dumating yung kapalit niya lilipat naba tayo?",
+            "time": "2025-04-30 02:24:43",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189f4b7160",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "pero pag may bagong JA na mahired at sa dept natin ipunta baka yun yong mag handle satin",
+            "time": "2025-04-30 02:24:52",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_681189f799899",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "nakaka umay na yung mga bawal bawal",
+            "time": "2025-04-30 02:24:55",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118a01e4261",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "sinabi mo pa",
+            "time": "2025-04-30 02:25:05",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118a1809b0e",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "sana meron na agad na bago para kaya pang hilutin sa mga bawal bawal na yan",
+            "time": "2025-04-30 02:25:28",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118a2d18e10",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "maliit na nga sahod natin ginagawa pa tayong robot",
+            "time": "2025-04-30 02:25:49",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118a41c00ec",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "saan nauwi si murata?",
+            "time": "2025-04-30 02:26:09",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118a4224f53",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "oo nga. kung walang magiging bagong JA satin kay sir murata tayp",
+            "time": "2025-04-30 02:26:10",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118a7120d15",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "maabangan para si baba or si maam hiromi nalang JA natin",
+            "time": "2025-04-30 02:26:57",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_68118b0d424ee",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "madami na silang handle",
+            "time": "2025-04-30 02:29:33",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ]
+        },
+        {
+            "id": "msg_123456",
+            "room_id": "room_123",
+            "user_id": "user_123",
+            "username": "JohnDoe",
+            "text": "Hello world",
+            "time": "2023-04-30 10:15:30",
+            "has_file": false,
+            "read_by": [
+                "user_456",
+                "user_789"
+            ],
+            "reactions": {
+                "\ud83d\udc4d": [
+                    "user_456"
+                ],
+                "\u2764\ufe0f": [
+                    "user_789"
+                ]
+            }
+        },
+        {
+            "id": "msg_68118d3501dbe",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "ay lintek na yan",
+            "time": "2025-04-30 02:38:45",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68118d4fa19a1",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "my nag seen na haha",
+            "time": "2025-04-30 02:39:11",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68118d5aae2cf",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "nakikita na kung sino nag seen pero d kita name sayang haha",
+            "time": "2025-04-30 02:39:22",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68118eaf6be2b",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "mali ung oras HAHAHA",
+            "time": "2025-04-30 02:45:03",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119014efbb2",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "ayan my reacty na",
+            "time": "2025-04-30 02:51:00",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\ud83d\ude2e": [
+                    "6811820210296"
+                ]
+            }
+        },
+        {
+            "id": "msg_68119019b3c6a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "click nyo ung smiley",
+            "time": "2025-04-30 02:51:05",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\u2764\ufe0f": [
+                    "681161a0ca8e2",
+                    "6811820210296",
+                    "6811764a78abd"
+                ],
+                "\ud83d\ude2e": [
+                    "6811820210296",
+                    "681161a0ca8e2",
+                    "6811764a78abd"
+                ],
+                "\ud83d\ude02": [
+                    "6811820210296",
+                    "681184d78976d",
+                    "6811764a78abd"
+                ],
+                "\ud83d\ude22": [
+                    "6811820210296"
+                ],
+                "\ud83c\udf89": [
+                    "6811820210296"
+                ],
+                "\ud83d\udc4f": [
+                    "6811820210296",
+                    "681161a0ca8e2"
+                ],
+                "\ud83d\udd25": [
+                    "6811820210296",
+                    "681161a0ca8e2"
+                ],
+                "\ud83d\udc4d": [
+                    "6811820210296"
+                ]
+            }
+        },
+        {
+            "id": "msg_68119374ef2d9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "\ud83e\udd2a",
+            "time": "2025-04-30 03:05:24",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681193bf3f9bf",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "bakit pag nag babackread laging nabalik sa baba prang tanga",
+            "time": "2025-04-30 03:06:39",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\ud83d\ude02": [
+                    "6811820210296"
+                ]
+            }
+        },
+        {
+            "id": "msg_681193dce982b",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "bago yung oras nga mali hahaha",
+            "time": "2025-04-30 03:07:08",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681193e750645",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "hays",
+            "time": "2025-04-30 03:07:19",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119408ee824",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "kasya siguro dun sa civago yung cup noodles no?",
+            "time": "2025-04-30 03:07:52",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681184d78976d",
+                "6811820210296",
+                "681161a0ca8e2",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\u2764\ufe0f": [
+                    "681161a0ca8e2"
+                ],
+                "\ud83d\ude2e": [
+                    "681161a0ca8e2"
+                ],
+                "\ud83d\ude22": [
+                    "681161a0ca8e2"
+                ],
+                "\ud83c\udf89": [
+                    "681161a0ca8e2"
+                ]
+            }
+        },
+        {
+            "id": "msg_681194446317a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "mangangamoy",
+            "time": "2025-04-30 03:08:52",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119451c8c98",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "di makapag backread",
+            "time": "2025-04-30 03:09:05",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "6811764a78abd",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681194fa09e59",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "Crisostomo_Ibarra",
+            "text": "ayan na ok na",
+            "time": "2025-04-30 03:11:54",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811950698696",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "ang ano?",
+            "time": "2025-04-30 03:12:06",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119525dfa94",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "ech",
+            "time": "2025-04-30 03:12:37",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119527e3bf5",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "ayan jude na",
+            "time": "2025-04-30 03:12:39",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "6811764a78abd",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119781aa425",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "nice",
+            "time": "2025-04-30 03:22:41",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "681184d78976d",
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681197d4763d0",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "bat nabalik pa din kainis naman to",
+            "time": "2025-04-30 03:24:04",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681197fa0b8d9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "hindi naman siguro mangangamoy yon sabihin ok sabaw lang yon",
+            "time": "2025-04-30 03:24:42",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119807d96f9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "hindi naman kinakain ang sabaw diba",
+            "time": "2025-04-30 03:24:55",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119854c4b56",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "oyyyy",
+            "time": "2025-04-30 03:26:12",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681198721ce8b",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "walang change name dito",
+            "time": "2025-04-30 03:26:42",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119880d3411",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "pasok mo dito yung bingo hahaha",
+            "time": "2025-04-30 03:26:56",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68119887465ce",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "mag bingo nalang tayo",
+            "time": "2025-04-30 03:27:03",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811a933c8cab",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "mamaya na nyang bingo",
+            "time": "2025-04-30 04:38:11",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811764a78abd",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811be9cbb435",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "hahahaha",
+            "time": "2025-04-30 06:09:32",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681184d78976d",
+                "681161a0ca8e2",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811c37b71474",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "wla na hindi na tama ung binibigay sakin ni jolibot na refresh ko banaman d na ako ma intindihan",
+            "time": "2025-04-30 06:30:19",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "6811764a78abd",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\ud83d\ude02": [
+                    "6811820210296"
+                ]
+            }
+        },
+        {
+            "id": "msg_6811d168d3a84",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "kasali si maam yuko",
+            "time": "2025-04-30 07:29:44",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "68118350041e8",
+                "6811764a78abd",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d16ad946d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "kaya bahave",
+            "time": "2025-04-30 07:29:46",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68118350041e8",
+                "6811764a78abd",
+                "681184d78976d",
+                "6811820210296",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d16fed8d5",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "@everyone",
+            "time": "2025-04-30 07:29:51",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68118350041e8",
+                "6811764a78abd",
+                "681184d78976d",
+                "6811820210296",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d170d8392",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "HAHAHA",
+            "time": "2025-04-30 07:29:52",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68118350041e8",
+                "6811764a78abd",
+                "681184d78976d",
+                "6811820210296",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d23224ff4",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "hahaha",
+            "time": "2025-04-30 07:33:06",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d23960a8d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "makinig kayo mabuti",
+            "time": "2025-04-30 07:33:13",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d2633611d",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "bawal na tumayo",
+            "time": "2025-04-30 07:33:55",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "68118350041e8",
+                "6811764a78abd",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\ud83d\ude02": [
+                    "6811820210296"
+                ]
+            }
+        },
+        {
+            "id": "msg_6811d2642b6cc",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "hahahah",
+            "time": "2025-04-30 07:33:56",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "6811820210296",
+                "68118350041e8",
+                "6811764a78abd",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d806ce378",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "kasali na pala siya",
+            "time": "2025-04-30 07:57:58",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d80c74387",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "buti nalang behave ako",
+            "time": "2025-04-30 07:58:04",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d83a2dfd0",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "wala si win dito no?",
+            "time": "2025-04-30 07:58:50",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "68118350041e8",
+                "6811820210296",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811d894a1ff2",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "oo",
+            "time": "2025-04-30 08:00:20",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811dfecb15f8",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "nakakapagod kana sir mar",
+            "time": "2025-04-30 08:31:40",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\ud83d\ude02": [
+                    "6811820210296"
+                ]
+            }
+        },
+        {
+            "id": "msg_6811e0a2c5c8a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811820210296",
+            "username": "jane",
+            "text": "langya umpisahan na natin mag habol ng overdue",
+            "time": "2025-04-30 08:34:42",
+            "has_file": false,
+            "read_by": [
+                "6811820210296",
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e18f1fa8e",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "hahahah",
+            "time": "2025-04-30 08:38:39",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e19776d62",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "wala pa naman akong overdue hahaha",
+            "time": "2025-04-30 08:38:47",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e32629642",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "dahil to dun sa mga database na nadrop or na change haha",
+            "time": "2025-04-30 08:45:26",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e3420a8a6",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "ingay niyo daw",
+            "time": "2025-04-30 08:45:54",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e3681338e",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "wala ng tayuan to guys",
+            "time": "2025-04-30 08:46:32",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "681184d78976d",
+                "6811820210296",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e37125f41",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "wala ng gagalaw",
+            "time": "2025-04-30 08:46:41",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "6811820210296",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6811e38622844",
+            "room_id": "room_681161bedeec6",
+            "user_id": "6811764a78abd",
+            "username": "Shitnes",
+            "text": "di na nga natayo oh",
+            "time": "2025-04-30 08:47:02",
+            "has_file": false,
+            "read_by": [
+                "6811764a78abd",
+                "68118350041e8",
+                "681161a0ca8e2",
+                "681184d78976d",
+                "6811820210296",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": {
+                "\ud83d\ude02": [
+                    "6811820210296",
+                    "681161a0ca8e2"
+                ]
+            }
+        },
+        {
+            "id": "msg_6813fa6d6b8b8",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "maganndag umaga mga panget",
+            "time": "2025-05-01 22:49:17",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6813fb6a69cef",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "iba na daw tatayo hahaha",
+            "time": "2025-05-01 22:53:30",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_6813fb7595535",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "sino yang naka online hahaha",
+            "time": "2025-05-01 22:53:41",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681409dd500f0",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-05-01 23:55:09",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68140c6d48587",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681184d78976d",
+            "username": "Ea_Ron",
+            "text": "\ud83e\udd84",
+            "time": "2025-05-02 00:06:05",
+            "has_file": false,
+            "read_by": [
+                "681184d78976d",
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": [
+                "msg_68140ef9e8a4a"
+            ]
+        },
+        {
+            "id": "msg_68140ef9e8a4a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-05-02 00:16:57",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": "msg_68140c6d48587",
+            "replies": []
+        },
+        {
+            "id": "msg_681412ed69c5a",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-05-02 00:33:49",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": []
+        },
+        {
+            "id": "msg_681412ed6ac61",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-05-02 00:33:49",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": []
+        },
+        {
+            "id": "msg_681469ccb0248",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\udc1b",
+            "time": "2025-05-02 06:44:28",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": []
+        },
+        {
+            "id": "msg_681469ccb110c",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\udc1b",
+            "time": "2025-05-02 06:44:28",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": []
+        },
+        {
+            "id": "msg_681469d389c7f",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\udd25",
+            "time": "2025-05-02 06:44:35",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": []
+        },
+        {
+            "id": "msg_681469d38c7ef",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\udd25",
+            "time": "2025-05-02 06:44:35",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": [],
+            "parent_id": null,
+            "replies": []
+        },
+        {
+            "id": "msg_68146a3dc3a88",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-05-02 06:46:21",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68146a43e85ef",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\ude18",
+            "time": "2025-05-02 06:46:27",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_681482388afaa",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "cr",
+            "time": "2025-05-02 08:28:40",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "681184d78976d",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68154b4bd4de7",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "https:\/\/nsfwph.org\/threads\/1813174\/page-2#post-30310635",
+            "time": "2025-05-02 22:46:35",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68154b8c68e3a",
+                "686cc592b8434"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_686cc6dfeb4cc",
+            "room_id": "room_681161bedeec6",
+            "user_id": "686cc592b8434",
+            "username": "testing101",
+            "text": "",
+            "time": "2025-07-08 07:21:03",
+            "has_file": true,
+            "read_by": [
+                "686cc592b8434",
+                "681161a0ca8e2"
+            ],
+            "reactions": [],
+            "file": {
+                "name": "ID.jpg",
+                "path": "uploads\/file_686cc6dfe3e09.jpg",
+                "size": 15810,
+                "type": "image\/jpeg"
+            }
+        },
+        {
+            "id": "msg_68b100dccf3d2",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "",
+            "time": "2025-08-29 01:22:36",
+            "has_file": true,
+            "read_by": [
+                "681161a0ca8e2"
+            ],
+            "reactions": [],
+            "file": {
+                "name": "valendar.png",
+                "path": "uploads\/file_68b100dcccd55.png",
+                "size": 14793,
+                "type": "image\/png"
+            }
+        },
+        {
+            "id": "msg_68b100f6809c9",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "",
+            "time": "2025-08-29 01:23:02",
+            "has_file": true,
+            "read_by": [
+                "681161a0ca8e2"
+            ],
+            "reactions": [],
+            "file": {
+                "name": "LOGO-TEAM-GRAPHITEE-1-2140157031.png",
+                "path": "uploads\/file_68b100f67e95d.png",
+                "size": 27153,
+                "type": "image\/png"
+            }
+        },
+        {
+            "id": "msg_68b23762a2956",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "",
+            "time": "2025-08-29 23:27:30",
+            "has_file": true,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": [],
+            "file": {
+                "name": "valendar.png",
+                "path": "uploads\/file_68b23762a08be.png",
+                "size": 14793,
+                "type": "image\/png"
+            }
+        },
+        {
+            "id": "msg_68b23b91e7987",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "testtt",
+            "time": "2025-08-29 23:45:21",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b23ba3b9a4b",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "",
+            "time": "2025-08-29 23:45:39",
+            "has_file": true,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": [],
+            "file": {
+                "name": "valendar.png",
+                "path": "uploads\/file_68b23ba3b80e1.png",
+                "size": 14793,
+                "type": "image\/png"
+            }
+        },
+        {
+            "id": "msg_68b23bb410d38",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "",
+            "time": "2025-08-29 23:45:56",
+            "has_file": true,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": [],
+            "file": {
+                "name": "LOGO-TEAM-GRAPHITEE-1-2140157031.png",
+                "path": "uploads\/file_68b23bb40ec9f.png",
+                "size": 27153,
+                "type": "image\/png"
+            }
+        },
+        {
+            "id": "msg_68b7d1440779f",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1502_pepelaugh.gif]",
+            "time": "2025-09-03 05:25:24",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1440ac07",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1502_pepelaugh.gif]",
+            "time": "2025-09-03 05:25:24",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d14d81051",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1207_peepoSignedSimp.gif]",
+            "time": "2025-09-03 05:25:33",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d14d824cf",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1207_peepoSignedSimp.gif]",
+            "time": "2025-09-03 05:25:33",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d156a8423",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "qewqeqw",
+            "time": "2025-09-03 05:25:42",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d156a923e",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "qewqeqw",
+            "time": "2025-09-03 05:25:42",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1a4b6c69",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-09-03 05:27:00",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1a4b7f39",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-09-03 05:27:00",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1de3d565",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-09-03 05:27:58",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1e101d5c",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "1",
+            "time": "2025-09-03 05:28:01",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1e1f08a9",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "2",
+            "time": "2025-09-03 05:28:01",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1e282e64",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "3",
+            "time": "2025-09-03 05:28:02",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1e78ec2e",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "tetwer",
+            "time": "2025-09-03 05:28:07",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d1ebdcd83",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1207_peepoSignedSimp.gif]",
+            "time": "2025-09-03 05:28:11",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d26d2d70a",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1037_hehepepe.gif]",
+            "time": "2025-09-03 05:30:21",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d59c49dc4",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1729_peperun.gif]",
+            "time": "2025-09-03 05:43:56",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d6f219ce1",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1037_hehepepe.gif]",
+            "time": "2025-09-03 05:49:38",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7d83b11baa",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\ude00",
+            "time": "2025-09-03 05:55:07",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7dd86df4ac",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83e\udd2a[EMOJI:emoji\/Pepe_animated\/1037_hehepepe.gif]",
+            "time": "2025-09-03 06:17:42",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7e333a2f5c",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "ok na ?",
+            "time": "2025-09-03 06:41:55",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7e33ae89f8",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1207_peepoSignedSimp.gif] lol",
+            "time": "2025-09-03 06:42:02",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7e33e52e0d",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "lol",
+            "time": "2025-09-03 06:42:06",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7e75bcf9a2",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1729_peperun.gif]",
+            "time": "2025-09-03 06:59:39",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7f4efcef7f",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test\ud83d\ude03\ud83d\ude03",
+            "time": "2025-09-03 07:57:35",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b7f4f453d70",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1207_peepoSignedSimp.gif]",
+            "time": "2025-09-03 07:57:40",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b8036a12461",
+            "room_id": "room_681161bedeec6",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/1729_peperun.gif]",
+            "time": "2025-09-03 08:59:22",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b8fe7f0a442",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/4697_pepecreepylurk.gif]",
+            "time": "2025-09-04 02:50:39",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b8fe8684319",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/PepeRain.gif]",
+            "time": "2025-09-04 02:50:46",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b8ff9db0419",
+            "room_id": "room_68b8ff91d1b47",
+            "user_id": "68b8ff742254e",
+            "username": "HeyJude",
+            "text": "Kamusta po kayo?",
+            "time": "2025-09-04 02:55:25",
+            "has_file": false,
+            "read_by": [
+                "68b8ff742254e"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b8ffd08e1c6",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/6582_pepeplant.gif]",
+            "time": "2025-09-04 02:56:16",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b8ffd3a483a",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "68b8ff4cbe527",
+            "username": "Sarah",
+            "text": "[EMOJI:emoji\/Pepe_animated\/PepeRain.gif]",
+            "time": "2025-09-04 02:56:19",
+            "has_file": false,
+            "read_by": [
+                "68b8ff4cbe527",
+                "681161a0ca8e2"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b900042259b",
+            "room_id": "room_68b8ff91d1b47",
+            "user_id": "68b8ff742254e",
+            "username": "HeyJude",
+            "text": "Ang famous naman ng mga tao dito parang walang pinagsamahan",
+            "time": "2025-09-04 02:57:08",
+            "has_file": false,
+            "read_by": [
+                "68b8ff742254e"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b90038bb527",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "68b8ff4cbe527",
+            "username": "Sarah",
+            "text": "[EMOJI:emoji\/Pepe_animated\/5408_pepe_kissing_pepe.gif]",
+            "time": "2025-09-04 02:58:00",
+            "has_file": false,
+            "read_by": [
+                "68b8ff4cbe527",
+                "681161a0ca8e2"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b90046a2427",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "68b8ff4cbe527",
+            "username": "Sarah",
+            "text": "si darwin hinalikan si daddy :D",
+            "time": "2025-09-04 02:58:14",
+            "has_file": false,
+            "read_by": [
+                "68b8ff4cbe527",
+                "681161a0ca8e2"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b903165c062",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Pepe_animated\/61444-pepe-hyperspeed.gif]",
+            "time": "2025-09-04 03:10:14",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b91f502b3c3",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\udc36",
+            "time": "2025-09-04 05:10:40",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b91f7010bef",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\udc36",
+            "time": "2025-09-04 05:11:12",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b920760b8d4",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "\ud83d\ude43",
+            "time": "2025-09-04 05:15:34",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": {
+                "\ud83d\udc4d": [
+                    "681161a0ca8e2"
+                ],
+                "\ud83d\ude02": [
+                    "681161a0ca8e2"
+                ]
+            }
+        },
+        {
+            "id": "msg_68b938ba14d68",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Random_gif\/79526-gojo.gif]",
+            "time": "2025-09-04 06:59:06",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b942ed51741",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "[EMOJI:emoji\/Random_gif\/33393-panic.gif]",
+            "time": "2025-09-04 07:42:37",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": []
+        },
+        {
+            "id": "msg_68b944bf5cf89",
+            "room_id": "room_68b23758ae2bb",
+            "user_id": "681161a0ca8e2",
+            "username": "JUDE",
+            "text": "test",
+            "time": "2025-09-04 07:50:23",
+            "has_file": false,
+            "read_by": [
+                "681161a0ca8e2",
+                "68b8ff4cbe527"
+            ],
+            "reactions": {
+                "\ud83d\udc4d": [
+                    "681161a0ca8e2"
+                ]
+            }
+        }
+    ]
+}
